@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/KacperKlimas10">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFD5&center=true&vCenter=true&width=550&lines=DevOps+Engineer+%26+Cloud+Enthusiast;Azure+%7CKubernetes+%7C+Spring+Boot;Always+Learning+New+Technologies" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFD5&center=true&vCenter=true&width=550&lines=DevOps+Engineer+%26+Cloud+Enthusiast;Azure+%7C+Kubernetes+%7C+Spring+Boot;Always+Learning+New+Technologies" alt="Typing Animation" />
   </a>
 </p>
 
