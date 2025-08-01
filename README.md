@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,100:00FFD5&height=200&section=header&text=Hi%20There!%20I'm%20Kacper%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F2F2F,100:808080&height=200&section=header&text=Hi%20There!%20I'm%20Kacper%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
@@ -85,6 +85,6 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,100:00FFD5&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F2F2F,100:808080&height=120&section=footer"/>
 </p>
 
