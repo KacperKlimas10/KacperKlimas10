@@ -13,10 +13,10 @@
 ---
 
 ## 🚀 About Me
-- 🎓 3rd-year Computer Science student with strong interest in **Cloud**, **DevOps**, and **Microservice Architectures**  
+- 🎓 4th-year Computer Science student with strong interest in **DevOps**, **Cloud**, and **Enterprise Programming Architectures**  
 - 🛠️ Experience in **enterprise deployments** and **container orchestration**  
 - 💼 Entrepreneur in tech & product development  
-- 🌱 Currently mastering **Kubernetes**, **CI/CD Automation**, and **Cloud**
+- 🌱 Currently mastering **Cloud**, **Kubernetes**, **Terraform**, **CI/CD Automation**, and **Linux**
 
 ---
 
@@ -32,8 +32,6 @@
 ### ⚙️ Backend
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
@@ -70,9 +68,10 @@
 ---
 
 ## 🌱 Currently Learning
-- Advanced **Kubernetes** administration in production  
-- Building enterprise-grade **Spring Boot microservices**  
-- Automating infrastructure with **CI/CD**, **Terraform**, **Ansible**  
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
