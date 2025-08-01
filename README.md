@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/KacperKlimas10">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFD5&center=true&vCenter=true&width=550&lines=DevOps+Engineer+%26+Cloud+Enthusiast;Kubernetes+%7C+Spring+Boot+%7C+PostgreSQL;Always+Learning+New+Tech" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFD5&center=true&vCenter=true&width=550&lines=DevOps+Engineer+%26+Cloud+Enthusiast;Azure+%7CKubernetes+%7C+Spring+Boot+%7C+PostgreSQL;Always+Learning+New+Technologies" alt="Typing Animation" />
   </a>
 </p>
 
@@ -34,7 +34,7 @@
 ### ⚙️ Backend
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🔄 CI/CD
