@@ -24,7 +24,7 @@
 ## 🛠️ Technologies & Tools
 
 ### ☁️ DevOps & Cloud
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=msazure&logoColor=white)
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -47,11 +47,11 @@
 ---
 
 ## 📜 Certifications
-![Azure AZ-900](https://img.shields.io/badge/Azure%20Fundamentals%20(AZ--900)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Red Hat System Administration I](https://img.shields.io/badge/Red%20Hat%20System%20Administration%20I-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![Red Hat OpenShift Developer I](https://img.shields.io/badge/Red%20Hat%20OpenShift%20Developer%20I%20(DO188)-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
-![Zwolnieni z Teorii](https://img.shields.io/badge/Zwolnieni%20z%20Teorii-FFD700?style=for-the-badge)
-
+- ☁️ Microsoft **Azure Fundamentals (AZ-900)**
+- 🐧 Red Hat **System Administration I**
+- 🐳 Red Hat **OpenShift Developer I: Introduction to Containers with Podman (DO188 - RHA)**
+- 🤝 Zwolnieni z Teorii **Project Management Principles**
+  
 ---
 
 ## 📊 GitHub Stats
