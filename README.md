@@ -24,7 +24,7 @@
 ## 🛠️ Technologies & Tools
 
 ### ☁️ DevOps & Cloud
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=msazure&logoColor=white)
+[![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=msazure&logoColor=white)](#)
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
