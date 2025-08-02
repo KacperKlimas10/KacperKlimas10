@@ -49,7 +49,8 @@
 ## 📜 Certifications
 - ☁️ Microsoft **Azure Fundamentals (AZ-900)**
 - 🐧 **Red Hat System Administration I**
-- 🤝 Social Project – **Zwolnieni z Teorii**
+- 🐳 **Red Hat OpenShift Developer I: Introduction to Containers with Podman (DO188 - RHA)**
+- 🤝 **Project Management Principles Zwolnieni z Teorii**
 
 ---
 
