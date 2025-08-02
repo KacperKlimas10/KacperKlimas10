@@ -15,9 +15,9 @@
 ---
 
 ## 🚀 About Me
-- 🎓 4th-year Computer Science student with strong interest in **DevOps**, **Cloud**, and **Enterprise Programming Architectures**  
+- 🎓 4th-year Computer Science in Computer Engineering student with strong interest in **DevOps**, **Cloud**, and **Enterprise Programming Architectures**  
 - 🛠️ Experience in **enterprise deployments** and **container orchestration**  
-- 🌱 Currently mastering **Cloud**, **Kubernetes**, **Terraform**, **CI/CD Automation**, and **Linux**
+- 🌱 Currently mastering **Cloud**, **Kubernetes**, **Terraform**, **CI/CD**, and **Linux**
 
 ---
 
@@ -48,9 +48,9 @@
 
 ## 📜 Certifications
 - ☁️ Microsoft **Azure Fundamentals (AZ-900)**
-- 🐧 **Red Hat System Administration I**
-- 🐳 **Red Hat OpenShift Developer I: Introduction to Containers with Podman (DO188 - RHA)**
-- 🤝 **Project Management Principles Zwolnieni z Teorii**
+- 🐧 Red Hat **System Administration I**
+- 🐳 Red Hat **OpenShift Developer I: Introduction to Containers with Podman (DO188 - RHA)**
+- 🤝 Zwolnieni z Teorii **Project Management Principles**
 
 ---
 
