@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F2F2F,100:808080&height=200&section=header&text=Hi%20There!%20I'm%20Kacper%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F2F2F,100:808080&height=200&section=header&text=Hi%20There!👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
@@ -17,7 +17,6 @@
 ## 🚀 About Me
 - 🎓 4th-year Computer Science student with strong interest in **DevOps**, **Cloud**, and **Enterprise Programming Architectures**  
 - 🛠️ Experience in **enterprise deployments** and **container orchestration**  
-- 💼 Entrepreneur in tech & product development  
 - 🌱 Currently mastering **Cloud**, **Kubernetes**, **Terraform**, **CI/CD Automation**, and **Linux**
 
 ---
@@ -40,6 +39,10 @@
 ### 🔄 CI/CD
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### 🛠️ Other
+![Bash](https://img.shields.io/badge/Bash-2F2F2F?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-2F2F2F?style=for-the-badge&logo=git&logoColor=F05032)
 
 ---
 
