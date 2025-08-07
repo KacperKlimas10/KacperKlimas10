@@ -57,11 +57,6 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KacperKlimas10&show_icons=true&theme=tokyonight" height="160px"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KacperKlimas10&theme=tokyonight" height="160px"/>
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KacperKlimas10&layout=compact&theme=tokyonight" height="160px"/>
 </p>
 
