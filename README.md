@@ -25,7 +25,6 @@
 
 ### ☁️ DevOps & Cloud
 [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=msazure&logoColor=white)](#)
-![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
@@ -42,6 +41,7 @@
 ![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?&style=for-the-badge&logo=Argo&logoColor=white)
 
 ### 🛠️ Other
+![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-2F2F2F?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-2F2F2F?style=for-the-badge&logo=git&logoColor=F05032)
 
