@@ -33,12 +33,13 @@
 ### ⚙️ Backend
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🔄 CI/CD
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?&style=for-the-badge&logo=Argo&logoColor=white)
 
 ### 🛠️ Other
 ![Bash](https://img.shields.io/badge/Bash-2F2F2F?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -48,6 +49,7 @@
 
 ## 📜 Certifications
 - ☁️ Microsoft **Azure Fundamentals (AZ-900)**
+- 🟣 HashiCorp Certified: **Terraform Associate (HCTA0-003)**
 - 🐧 Red Hat **System Administration I**
 - 🐳 Red Hat **OpenShift Developer I: Introduction to Containers with Podman (DO188 - RHA)**
 - 🤝 Zwolnieni z Teorii **Project Management Principles**
@@ -70,10 +72,9 @@
 ---
 
 ## 🌱 Currently Learning
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Istio](https://img.shields.io/badge/Istio-415688?&style=for-the-badge&logo=Istio&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ---
