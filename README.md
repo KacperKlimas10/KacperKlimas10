@@ -47,6 +47,14 @@
 
 ---
 
+## 🌱 Currently Learning
+![Istio](https://img.shields.io/badge/Istio-415688?&style=for-the-badge&logo=Istio&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+---
+
 ## 📜 Certifications
 - ☁️ Microsoft **Azure Fundamentals (AZ-900)**
 - 🟣 HashiCorp Certified: **Terraform Associate (HCTA0-003)**
@@ -68,14 +76,6 @@
 <p align="center">
   <img src="https://github.com/KacperKlimas10/KacperKlimas10/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-
----
-
-## 🌱 Currently Learning
-![Istio](https://img.shields.io/badge/Istio-415688?&style=for-the-badge&logo=Istio&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ---
 
