@@ -60,7 +60,6 @@
 - 🟣 HashiCorp Certified: **Terraform Associate (HCTA0-003)**
 - 🐧 Red Hat **System Administration I**
 - 🐳 Red Hat **OpenShift Developer I: Introduction to Containers with Podman (DO188 - RHA)**
-- 🤝 Zwolnieni z Teorii **Project Management Principles**
   
 ---
 
